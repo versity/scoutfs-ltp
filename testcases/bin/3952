@@ -1,0 +1,3 @@
+#036,3952,/opt/ltp/bin/ltp-pan -q -e -S -a 3952 -n 3952 -p -f /mnt/scoutfs/ltp-
+#3855,logrotate_sh,export TCdat=$LTPROOT/testcases/bin; logrotate_tests.sh     
+#3241,fsx-linux,export TCbin=$LTPROOT/testcases/bin;fsxtest02 10000            

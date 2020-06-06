@@ -1,0 +1,3 @@
+#6048,25966,/opt/ltp/bin/ltp-pan -q -e -S -a 25966 -n 25966 -p -f /mnt/scoutfs/
+#729,logrotate_sh,export TCdat=$LTPROOT/testcases/bin; logrotate_tests.sh      
+#990,fs_fill,fs_fill                                                           
